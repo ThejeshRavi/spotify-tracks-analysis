@@ -240,3 +240,7 @@ ORDER BY 3 DESC
 - PostgreSQL (Database & SQL queries)
 - pgAdmin / DBeaver (SQL Query Editor)
 - GitHub (Version Control)
+- 
+## Acknowledgments  
+- **Data Source**: Kaggle’s spotify Dataset  
+
