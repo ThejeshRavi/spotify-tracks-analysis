@@ -1,4 +1,4 @@
-# spotify-tracks-analysis
+# Spotify-Tracks-Analysis
 
 ## Overview
 This project focuses on analyzing a **Spotify dataset** containing detailed information about tracks, albums, and artists using **SQL**. It involves an **end-to-end process**, including **normalizing a denormalized dataset**, executing SQL queries of varying complexity. The primary objective is to enhance **advanced SQL skills** while extracting meaningful insights from the data.
