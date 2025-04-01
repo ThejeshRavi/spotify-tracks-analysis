@@ -54,18 +54,14 @@ After the data is inserted, various SQL queries can be written to explore and an
   
 #### Advanced Queries
 - Nested subqueries, window functions, CTEs, and performance optimization.
-🎯 Key Learnings
-Mastered SQL window functions for ranking & cumulative calculations
 
-Learned how to normalize denormalized data
+### 🎯 Key Learnings
+- Mastered SQL window functions for ranking & cumulative calculations
+- Learned how to normalize denormalized data
+- Practiced query optimization to handle large datasets efficiently
+- Gained insights into music streaming analytics
 
-Practiced query optimization to handle large datasets efficiently
-
-Gained insights into music streaming analytics
-
-🛠️ Technologies Used
-PostgreSQL (Database & SQL queries)
-
-pgAdmin / DBeaver (SQL Query Editor)
-
-GitHub (Version Control)
+### 🛠️ Technologies Used
+- PostgreSQL (Database & SQL queries)
+- pgAdmin / DBeaver (SQL Query Editor)
+- GitHub (Version Control)
