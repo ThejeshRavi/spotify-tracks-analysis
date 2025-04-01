@@ -229,18 +229,18 @@ GROUP BY 1
 ORDER BY 3 DESC
 ``` 
 
-
+---
 ### 🎯 Key Learnings
 - Mastered SQL window functions for ranking & cumulative calculations
 - Learned how to normalize denormalized data
 - Practiced query optimization to handle large datasets efficiently
 - Gained insights into music streaming analytics
-
+---
 ### 🛠️ Technologies Used
 - PostgreSQL (Database & SQL queries)
 - pgAdmin / DBeaver (SQL Query Editor)
 - GitHub (Version Control)
-- 
+---
 ## Acknowledgments  
 - **Data Source**: Kaggle’s spotify Dataset  
 
